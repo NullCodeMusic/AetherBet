@@ -14,3 +14,4 @@ This code will organise and rank fighters based on win rate and run some sort of
 ## Miscellaneous
 * Accounts
 * Hosting
+* What Characters to use? (compiling a list of all fighters to use, maybe have a request system.
